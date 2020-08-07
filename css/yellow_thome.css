@@ -1,0 +1,46 @@
+.Change-Colour .body-change,
+.testimonials .carousel-indicators .active{    
+    border: 3px solid #bfbf16;   
+}
+.navbar-nav > li > .dropdown-menu{
+    border-top: 3px solid #bfbf16;
+   
+}
+.Change-Colour i,
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus,
+.carousel-indicators .active,.dropdown-menu .divider{
+    background: #bfbf16;
+}
+
+.navbar-inverse .navbar-brand span,
+.dropdown-menu .divider,
+.about h1 span,.testimonials span,
+.footer h3,.cipyright span
+
+{
+    color: #bfbf16
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
